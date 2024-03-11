@@ -1,0 +1,28 @@
+{ "patient":"Jean-Guy Cémy",
+    "mesures":[
+        {"jour":"2024-03-11",
+        "releves":[
+            {"reveil":"7:30:00",
+             "value":"95",
+             "unit":"mg/dL"},
+            {"apPtitDej":"9:30:00",
+            "value":"145",
+            "unit":"mg/dL"},
+            {"avDej":"12:30:00",
+            "value":"99",
+            "unit":"mg/dL"},
+            {"apDej":"14:30:00",
+            "value":"112",
+            "unit":"mg/dL"},
+            {"avDiner":"19:30:00",
+            "value":"75",
+            "unit":"mg/dL"},
+            {"apDiner":"21:30:00",
+            "value":"164",
+            "unit":"mg/dL"},
+            {"avSleep":"22:30:00",
+            "value":"150",
+            "unit":"mg/dL"}
+        ]}
+     
+    ]}
